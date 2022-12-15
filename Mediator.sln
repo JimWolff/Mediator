@@ -88,7 +88,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.Tests.Common", "te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.Samples.SourceGenerator.Tests", "test\Mediator.Samples.SourceGenerator.Tests\Mediator.Samples.SourceGenerator.Tests.csproj", "{8625B7F2-F974-47E7-ABF1-C75AB9C305B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.Benchmarks.Large", "benchmarks\Mediator.Benchmarks.Large\Mediator.Benchmarks.Large.csproj", "{19078764-4D01-403D-9806-7842AF257FFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.Benchmarks.Large", "benchmarks\Mediator.Benchmarks.Large\Mediator.Benchmarks.Large.csproj", "{19078764-4D01-403D-9806-7842AF257FFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "extensions", "extensions", "{6C283875-01CE-498C-BB19-31A05ABEBEB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -431,6 +433,7 @@ Global
 		{32DC3B96-7E6E-40B0-AA12-40656B2D0381} = {ED1809FC-733B-4D9E-8FEE-70D3BB0BBD84}
 		{8625B7F2-F974-47E7-ABF1-C75AB9C305B2} = {ED1809FC-733B-4D9E-8FEE-70D3BB0BBD84}
 		{19078764-4D01-403D-9806-7842AF257FFF} = {0F5E1C71-66E0-4285-B861-184E5B6C841A}
+		{6C283875-01CE-498C-BB19-31A05ABEBEB8} = {438C928E-FBB5-45B2-9CD2-7ED3341AC75E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D45B5457-4190-49B6-BF89-7FA5F4C8ABE2}
