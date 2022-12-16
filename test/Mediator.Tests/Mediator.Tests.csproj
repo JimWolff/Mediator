@@ -6,6 +6,8 @@
     <IsPackable>false</IsPackable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+    <EnablePreviewFeatures>True</EnablePreviewFeatures>
+    <LangVersion>preview</LangVersion>
     <!--<ReportAnalyzer>true</ReportAnalyzer>-->
   </PropertyGroup>
 
